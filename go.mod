@@ -1,8 +1,8 @@
-module github.com/pinghe/caddycors
+module caddy
 
 go 1.12
 
 require (
-	github.com/captncraig/cors v0.0.0-20190326022215-48080ede89fe
-	github.com/mholt/caddy v1.0.3
+	github.com/caddyserver/caddy v1.0.3
+	github.com/captncraig/cors v0.0.0-20190703115713-e80254a89df1
 )
